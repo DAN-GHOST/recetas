@@ -1,0 +1,30 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.container{
+    text-align: center;
+}
+
+#img-1,
+#img-2,
+#img-3,
+#img-4{
+    display: block;
+    width: 30%;
+    margin:auto;
+}
+
+.title{
+    background: orange;
+    color: black;
+    font-size: 38px;
+    text-align: center;
+}
+
+.subtitle {
+    background: green;
+    color: white;
+    text-align: center;
+
+}
